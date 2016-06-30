@@ -1,0 +1,23 @@
+{
+  "name": "on-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zidein07/onChangeLastBlogInVk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zidein07/onChangeLastBlogInVk/issues"
+  },
+  "homepage": "https://github.com/zidein07/onChangeLastBlogInVk#readme",
+  "dependencies": {
+    "nightmare": "^2.5.2",
+    "node-notifier": "^4.6.0"
+  }
+}
